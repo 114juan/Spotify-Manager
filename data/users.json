@@ -1,0 +1,12 @@
+{
+    "juan": {
+        "username": "juan",
+        "password_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "is_premium": false
+    },
+    "carlos-paezf": {
+        "username": "carlos-paezf",
+        "password_hash": "20f3765880a5c269b747e1e906054a4b4a3a991259f1e16b5dde4742cec2319a",
+        "is_premium": true
+    }
+}
